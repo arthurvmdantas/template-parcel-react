@@ -1,0 +1,25 @@
+{
+  "name": "template-parcel-vanilla",
+  "version": "1.0.0",
+  "description": "Vanilla website template (HTML/CSS/Javascript) using Parcel",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurvmdantas/template-parcel-vanilla.git"
+  },
+  "author": "Arthur V. M. Dantas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurvmdantas/template-parcel-vanilla/issues"
+  },
+  "homepage": "https://github.com/arthurvmdantas/template-parcel-vanilla#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}

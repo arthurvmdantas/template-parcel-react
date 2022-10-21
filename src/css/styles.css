@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+*,
+::before,
+::after {
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    place-items: center;
+}
+
+.title {
+    color:crimson;
+}
